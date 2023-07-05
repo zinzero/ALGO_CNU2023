@@ -17,3 +17,7 @@
 - chapter03_ex04 : BFS
 - chapter04_ex01 : topological Sort
 - chapter04_ex02 : Binary Search
+- chapter05_ex01 : BinaryTree preorder, inorder, postorder
+- chapter05_ex02 : nXn matrix product
+- chapter06_ex01 : radix sort
+- chapter06_ex02 : horspool search
