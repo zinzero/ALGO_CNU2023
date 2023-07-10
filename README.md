@@ -21,3 +21,5 @@
 - chapter05_ex02 : nXn matrix product
 - chapter06_ex01 : radix sort
 - chapter06_ex02 : horspool search
+- chapter07_ex01 : knapSack
+- chapter07_ex02 : LCS
